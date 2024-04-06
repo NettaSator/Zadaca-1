@@ -52,11 +52,26 @@ header {
 
 #calculator button {
   font: inherit;
-  background: #023d6d;
   color: white;
   border: 1px solid #023d6d;
   padding: 1rem;
   cursor: pointer;
+}
+
+.green{
+  background: green;
+}
+
+.gray{
+  background: gray;
+}
+
+.violet{
+  background: violet;
+}
+
+.brown{
+  background: brown;
 }
 
 #calculator button:focus {
